@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-labelledby="title desc">
+<title id="title">Night Build — rostelekomprime666</title><desc id="desc">An amber terminal and a glowing door at the end of a dark wireframe corridor.</desc>
+<defs>
+  <linearGradient id="base" x2="1" y2="1"><stop stop-color="#111722"/><stop offset="1" stop-color="#090d14"/></linearGradient>
+  <linearGradient id="light"><stop stop-color="#ff744c"/><stop offset="1" stop-color="#ffc776"/></linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff824a" stop-opacity=".27"/><stop offset="1" stop-color="#ff824a" stop-opacity="0"/></linearGradient>
+  <radialGradient id="flare"><stop stop-color="#c75940" stop-opacity=".27"/><stop offset="1" stop-color="#c75940" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#95a3bb" opacity=".11"/></pattern>
+  <clipPath id="frame"><rect x="1" y="1" width="958" height="298" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="960" height="300" fill="url(#base)"/><rect width="960" height="300" fill="url(#dots)"/>
+  <ellipse cx="762" cy="151" rx="216" ry="174" fill="url(#flare)"/>
+  <path d="M548 48H930M548 239H930M571 48V239M917 48V239" stroke="#27303d"/>
+  <g fill="none" stroke="#51424a" stroke-opacity=".63">
+    <path d="M574 55L723 111H793L913 55M574 231L723 173H793L913 231M574 55V231H913V55ZM723 111V173H793V111Z"/>
+    <path d="M615 70V215H880V70ZM657 86V198H847V86ZM694 100V184H818V100Z"/>
+    <path d="M598 55L735 111M886 55L781 111M598 231L735 173M886 231L781 173M636 231L746 173M849 231L770 173M687 231L753 173M806 231L763 173"/>
+  </g>
+  <path d="M741 174H773L814 230H684Z" fill="url(#floor)"/>
+  <path d="M741 174V120H773V174Z" fill="#7a3529" stroke="#e97955" stroke-width="2"/>
+  <path d="M745 171V123H769V171Z" fill="url(#light)"/>
+  <path d="M744 124L758 130V169L744 173Z" fill="#361b21"/><circle cx="755" cy="150" r="1.25" fill="#ffcc80"/>
+  <path d="M725 174H789" stroke="#ff9b62" stroke-opacity=".77"/>
+  <path d="M570 65V48H587M900 48H917V65M570 222V239H587M900 239H917V222" fill="none" stroke="#ae6758"/>
+  <path d="M36 68H510M36 228H510M36 258H924" stroke="#2a3341"/>
+  <rect x="36" y="33" width="8" height="8" rx="2" fill="#ff9567"/>
+  <text x="55" y="41" fill="#d9a38e" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="2.4">INDIE DEV LOG / 001</text>
+  <text x="34" y="143" fill="#f3edf0" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="62" letter-spacing="-1.8">NIGHT BUILD</text>
+  <rect x="37" y="162" width="25" height="2" fill="#ff9d6e"/>
+  <text x="73" y="169" fill="#bec8d8" font-family="Consolas,monospace" font-size="18">@rostelekomprime666</text>
+  <text x="36" y="208" fill="#b6a7ae" font-family="Consolas,monospace" font-size="12" letter-spacing="2.1">HORROR  /  CO-OP  /  PROTOTYPES</text>
+  <g font-family="Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.6">
+    <text x="36" y="280" fill="#92a0b5">01   /   OPEN THE LAST DOOR</text>
+    <text x="924" y="280" fill="#f3ac89" text-anchor="end">SESSION: AFTER HOURS</text>
+  </g>
+</g>
+<rect x="1" y="1" width="958" height="298" rx="20" fill="none" stroke="#394351" stroke-width="2"/>
+</svg>

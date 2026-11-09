@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="./night-build.svg" alt="Night Build — rostelekomprime666. Светящаяся дверь в конце тёмного коридора." width="960">
+</p>
 
-<!--
-**rostelekomprime666/rostelekomprime666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю инди-игры: психологический хоррор, кооператив и прототипы странных механик. Люблю, когда обычное место становится жутким без единого скримера, а в коопе друзья сами создают половину хаоса.
 
-Here are some ideas to get you started:
+| Направление | Что пробую |
+| :--- | :--- |
+| **01 / Horror** | Ветвящиеся истории, таймеры и выборы с последствиями. |
+| **02 / Co-op** | Игры, где друзья могут и выручить, и устроить катастрофу. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Unity` · `C#` · `Ren’Py` · `Blender`
+
+## Змейка коммитов
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
+  <img src="./assets/snake-dark.svg" alt="Змейка ползёт по календарю вкладов GitHub">
+</picture>
